@@ -5,7 +5,7 @@ Este é um jogo da forca em C++ onde você deve adivinhar uma palavra escolhida 
 
 Certifique-se de ter um compilador C++ instalado em sua máquina. Para compilar o programa, execute o seguinte comando:
 
-g++ -o jogo_da_forca jogo_da_forca.cpp
+g++ -o jogo_da_forca main.cpp
 
 Isso irá gerar o arquivo executável jogo_da_forca. Agora, execute o programa com o seguinte comando:
 
