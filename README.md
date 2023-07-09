@@ -31,3 +31,11 @@ O programa inclui uma função limparTela() para limpar a tela do console. Essa 
 Após terminar uma rodada do jogo, o programa perguntará se você deseja continuar jogando. Digite 'S' ou 's' para continuar ou 'N' ou 'n' para sair do programa.
 
 Espero que isso ajude a criar um README útil para o código do jogo da forca!
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você tiver alguma ideia, sugestão ou relatório de bug, abra um problema ou envie um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT.
